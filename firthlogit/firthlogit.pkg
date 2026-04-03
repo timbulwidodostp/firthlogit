@@ -1,0 +1,5 @@
+D 'firthlogit': Penalized maximum likelihood logistic regression Use firthlogit With STATA 19
+D
+F firthlogit.ado
+F firthlogit.sthlp
+F firthlogit_ll.ado
