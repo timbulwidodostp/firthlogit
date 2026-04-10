@@ -1,6 +1,8 @@
 # firthlogit
 Penalized maximum likelihood logistic regression Use firthlogit With STATA 19
 
+https://www.youtube.com/watch?v=B47BVzi_Y7Q
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
